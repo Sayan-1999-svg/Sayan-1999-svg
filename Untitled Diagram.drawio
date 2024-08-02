@@ -63,8 +63,8 @@
         <mxCell id="c8cH7XXoI2v7gFMP64If-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Server&lt;br&gt;&lt;/h1&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="490" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="120" width="630" height="190" as="geometry" />
+        <mxCell id="c8cH7XXoI2v7gFMP64If-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFE6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="120" width="630" height="210" as="geometry" />
         </mxCell>
         <mxCell id="c8cH7XXoI2v7gFMP64If-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="340" width="600" height="170" as="geometry" />
@@ -72,34 +72,34 @@
         <mxCell id="c8cH7XXoI2v7gFMP64If-52" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Models, Datasets&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1550" y="80" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-54" value="FedAvg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-54" value="FedAvg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8cH7XXoI2v7gFMP64If-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
           <mxGeometry x="1520" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-56" value="Scaffold" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-56" value="Scaffold" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8cH7XXoI2v7gFMP64If-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
           <mxGeometry x="1680" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-58" value="FedYOGI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-58" value="FedYOGI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8cH7XXoI2v7gFMP64If-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
           <mxGeometry x="1820" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-62" value="FedAvgM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-62" value="FedAvgM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8cH7XXoI2v7gFMP64If-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
           <mxGeometry x="1370" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-64" value="FedDyn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-64" value="FedDyn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8cH7XXoI2v7gFMP64If-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
@@ -111,14 +111,41 @@
         <mxCell id="c8cH7XXoI2v7gFMP64If-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
           <mxGeometry x="1820" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-68" value="FedAdagrad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-68" value="FedAdagrad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-69" value="MimeLite" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-69" value="MimeLite" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-70" value="FedADAM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-70" value="FedADAM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF80;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="150" width="590" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-73" value="&lt;div&gt;California Ev Charging&lt;/div&gt;&lt;div&gt;Station Dataset&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-75" value="Indian EV Chraging Station Dataset(to be implemented)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-77" value="LSTM " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-79" value="&lt;div&gt;Adavanced Model(In Implementation Stage)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
