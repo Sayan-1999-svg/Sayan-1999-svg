@@ -4,32 +4,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c8cH7XXoI2v7gFMP64If-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="110" width="500" height="430" as="geometry" />
+        <mxCell id="c8cH7XXoI2v7gFMP64If-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="110" width="630" height="430" as="geometry" />
         </mxCell>
         <mxCell id="c8cH7XXoI2v7gFMP64If-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="250" width="270" height="160" as="geometry" />
+          <mxGeometry x="700" y="245" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="c8cH7XXoI2v7gFMP64If-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="240" width="270" height="160" as="geometry" />
+          <mxGeometry x="1170" y="220" width="270" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="150" width="270" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="150" width="190" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-15" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-15" value="Client Manager" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#99FFCC;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-16" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-16" value="&lt;div&gt;Aggregation&lt;/div&gt;&lt;div&gt;Algorithms&lt;br&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#99FFCC;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-17" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-17" value="&lt;div&gt;Client Connection &lt;br&gt;&lt;/div&gt;&lt;div&gt;Servicer&lt;br&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#99FFCC;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8cH7XXoI2v7gFMP64If-19" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;" vertex="1" parent="1">
+        <mxCell id="c8cH7XXoI2v7gFMP64If-19" value="Log Files" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#99FFCC;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-21" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="280" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-23" value="Training " style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#E5CCFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-24" value="Evaluation" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#E5CCFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-26" value="Training Time out" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#E5CCFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-27" value="Carbon Tracker" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#E5CCFF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c8cH7XXoI2v7gFMP64If-33" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="290" y="314.5" as="sourcePoint" />
+            <mxPoint x="350" y="314.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
